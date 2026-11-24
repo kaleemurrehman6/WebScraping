@@ -14,7 +14,6 @@ var searches = new (string Query, string Region, string Gl, string Mode)[]
 {
     // Karachi
     ("software house in Karachi", "Karachi", "pk", "places"),
-    ("software company in Karachi", "Karachi", "pk", "places"),
     ("IT company in Karachi", "Karachi", "pk", "places"),
     ("web development company in Karachi", "Karachi", "pk", "places"),
 
